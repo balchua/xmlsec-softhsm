@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<References>
+<Books>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+ <Book>
+  <Author>
+   <FirstName>Bruce</FirstName>
+    <LastName>Schneier</LastName>
+  </Author>
+  <Title>Applied Cryptography</Title>
+ </Book>
+</Books>
+ <Web>
+  <Title>XMLSec</Title>
+   <Url>http://www.aleksey.com/xmlsec/</Url>
+ </Web>
+ <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+   <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+    <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+     <Reference URI="">
+      <Transforms>
+       <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+      </Transforms>
+       <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+        <DigestValue>5NzIiMADXYe/ATEBBeLyz1HVwUI=</DigestValue>
+     </Reference>
+  </SignedInfo>
+  <SignatureValue>U14/5DF2+09lMj/DNXqEFmE+ZG9N8kUplk7H8dpNnsIQk+EKIR69iAuCpjOQdkIm
+XDNPa9eqMzTN1Qfwqm/YO8z+8DXPP/c9nl7z67WKRQmjopCAqF9aJr70ZkQqOG3m
+kheb9B6a8FuI6KLj5v8HfV/nzoIb81ktx2oAbjsYsrgigwJYJD+ePUGr/OInrCPZ
+HhTnABKhDQA6ODMvmCJoPb95eT+mceM52fVdMH51qJdShpxvOQtqPRbkP3w+D1G/
+n9DvOf9RwVNgQvQRXMnJBSC3p0hLcLe62f1q1ApM5hkG17DYVmRuzMAxI9g0mr3c
+fWt0wxtP7mKRqgfKf3zapQ==</SignatureValue>
+  <KeyInfo>
+   <X509Data>
+    <X509SubjectName>CN=Xmlsec</X509SubjectName>
+    <X509IssuerSerial>
+<X509IssuerName>CN=Xmlsec</X509IssuerName>
+<X509SerialNumber>653371419176770008889410644284050788369126892632</X509SerialNumber>
+</X509IssuerSerial>
+    <X509Certificate>MIIDAzCCAeugAwIBAgIUcnIwDpPcmlJWLciiZcaKzev3pFgwDQYJKoZIhvcNAQEN
+BQAwETEPMA0GA1UEAwwGWG1sc2VjMB4XDTIzMDYxMTAzNTAyNFoXDTQzMDYwNjAz
+NTAyNFowETEPMA0GA1UEAwwGWG1sc2VjMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8A
+MIIBCgKCAQEAty06zVXWBA2Y070IEOG3RrAOzxbg7PCh/1MW5d+FtXWvpD0Be7Ns
+stoXXHt/1FaKnc7ucjXx1s5lXAYZzfhOYcmnU5Efo7RzuohS1vdqR6ZtSl3ZaQYg
+pDsmAuv+JRK69ZSFkA9Axenlfd7t8+beQvRwbq3F9aWyFkrPkuYbHql7zT80f7Ee
+XXbMPbey5iBUgO+ptqjS6woNdhAqqrS5VXiMK5mJL+BajRyll10wnGM6DJA8ysuz
+DUKFZjoN3r2I9cPwrhvgGvbUzKQAvzIOL+3GvnCh0gQrpKmfDzYlAtc73oLvKTxS
+pjxJIo5loQaS1+0OnaQzSzcbJrD0yfLooQIDAQABo1MwUTAdBgNVHQ4EFgQUbB7o
+rDIoqGofeS7Kem9AYXVukMUwHwYDVR0jBBgwFoAUbB7orDIoqGofeS7Kem9AYXVu
+kMUwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQ0FAAOCAQEAY6GJMMMeAvhL
+wRNydS6Cz7+OlJrZV7e57bQ08xu3rYPyAyOuoEMJJLbBqFDqIhrhbIC/MRu/1Uxq
+Xkfnit/JmORsAd82C3qnKjq8gf+EBK7Btg5zF6V7UP/G57GNb4IrNZEelrEF69fu
+IXXB5q5nuGwxJbPG1L9oaC66+fC86pSQ5tvuh/ZuawBHhypah2DXxrP8KpixfG5v
+ISJ6xTadEq/WAA5XZQP8sxHez6vjeCDl+gLTmbq6wEC0h7RBf9H5OYsk39y6RCGi
+9HI2IJT7OPLG6WGyMhsigqud7CyvPnDi8WzmCTDkWX5wYxlm9cy/7Nkot0QaH8EA
+t/iK6IZj1w==</X509Certificate>
+   </X509Data>
+   <KeyValue>
+<RSAKeyValue>
+<Modulus>
+ty06zVXWBA2Y070IEOG3RrAOzxbg7PCh/1MW5d+FtXWvpD0Be7NsstoXXHt/1FaK
+nc7ucjXx1s5lXAYZzfhOYcmnU5Efo7RzuohS1vdqR6ZtSl3ZaQYgpDsmAuv+JRK6
+9ZSFkA9Axenlfd7t8+beQvRwbq3F9aWyFkrPkuYbHql7zT80f7EeXXbMPbey5iBU
+gO+ptqjS6woNdhAqqrS5VXiMK5mJL+BajRyll10wnGM6DJA8ysuzDUKFZjoN3r2I
+9cPwrhvgGvbUzKQAvzIOL+3GvnCh0gQrpKmfDzYlAtc73oLvKTxSpjxJIo5loQaS
+1+0OnaQzSzcbJrD0yfLooQ==
+</Modulus>
+<Exponent>
+AQAB
+</Exponent>
+</RSAKeyValue>
+</KeyValue>
+  </KeyInfo>
+ </Signature>
+</References>
